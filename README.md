@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mathisdrn
 - 👀 I’m interested in Data Science and Data Analytic
-- 🌱 Here are some of the project I worked included web development.
+- 🌱 Here are some of the project I worked on including web development.
 - 📫 You can reach me by mail at : mathis.derenne at gmail.com
 
 <!---
