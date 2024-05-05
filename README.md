@@ -2,4 +2,4 @@
 - 👀 I’m interested in Data Science and Data Analytic
 - 🌱 Here are some of the project I worked on including data visualisation, machine learning and web development.
 - 📫 You can reach me by mail at : mathis.derenne at gmail.com
-- 📄 Find my [resume](https://mathisdrn.github.io/) here
+- 📄 Here is my [personal website](https://mathisdrn.github.io/).
